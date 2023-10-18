@@ -1,0 +1,77 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1973b7;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para los formularios de registro e inicio de sesión */
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Estilo para etiquetas de formulario */
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Estilo para campos de entrada de formulario */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para botones */
+button {
+    background-color: #1973b8;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilo para enlaces */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Estilo para el título de la página */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Estilo para imágenes */
+img {
+    justify-content: center;
+    max-width: 15%;
+}
+
+/* Estilo para la sección principal (página de inicio) */
+#main-section {
+    text-align: center;
+    padding: 20px;
+}
+
+a,div{
+    text-align: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+/* Otros estilos personalizados */
+/* Agrega aquí tus estilos personalizados según las necesidades de tu aplicación */
